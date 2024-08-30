@@ -63,7 +63,7 @@ export const Banner = () => {
                 >
                   <span className="tagline">Welcome to my Portfolio</span>
                   <h1>
-                    {`Hi! I am Nikita Ganesh Mane`}{" "}
+                    {`Hi! I am Mayank Khandelwal`}{" "}
                     <span
                       className="txt-rotate"
                       dataPeriod="1000"
@@ -91,7 +91,7 @@ export const Banner = () => {
                       width: "100%",
                       height: "auto",
                     }}
-                    src="https://www.simplilearn.com/ice9/free_resources_article_thumb/fullstack_php_js.jpg"
+                    src="https://selectasol.co.uk/wp-content/uploads/2024/02/Web-Development.jpg"
                     alt=""
                   />
                 </div>

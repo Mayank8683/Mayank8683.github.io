@@ -3,7 +3,7 @@ import { Navbar, Nav, Container } from "react-bootstrap";
 import { HashLink } from "react-router-hash-link";
 import { BrowserRouter as Router } from "react-router-dom";
 
-// Import the custom CSS file
+
 import "./navbar.css";
 
 export const NavBar = () => {
@@ -32,8 +32,8 @@ export const NavBar = () => {
     <Router>
       <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
         <Container>
-          <Navbar.Brand href="/">
-            <h1 style={{ color: "white" }}>Nikita Mane</h1>
+          <Navbar.Brand href="/" style={{ marginRight: "20px" }}>
+            <h1 style={{ color: "white", fontSize:"20px" }}>Mayank Khandelwal</h1>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav">
             <span className="navbar-toggler-icon"></span>
@@ -82,7 +82,7 @@ export const NavBar = () => {
             <span className="navbar-text">
               <div className="social-icon">
                 <a
-                  href="https://github.com/NikitaMane12"
+                  href="https://github.com/Mayank8683"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -100,7 +100,7 @@ export const NavBar = () => {
                   </svg>
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/nikita-mane-32b3682a0/"
+                  href="https://www.linkedin.com/in/khandelwalmayank04/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -118,7 +118,7 @@ export const NavBar = () => {
                   </svg>
                 </a>
                 <a
-                  href="https://leetcode.com/u/manenikita2212/"
+                  href="https://leetcode.com/u/Mayank_180/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
