@@ -21,7 +21,7 @@ export const Projects = () => {
         { image: css, name: "CSS" },
         { image: js, name: "JS" },
       ],
-      liveLink: "sparkle-clone.netlify.app/",
+      liveLink: "https://sparkle-clone.netlify.app/",
       githubLink: "https://github.com/Anujkumar960/Sparkle?tab=readme-ov-file",
     },
     {
