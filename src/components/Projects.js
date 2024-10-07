@@ -41,7 +41,7 @@ export const Projects = () => {
           name: "React",
         },
       ],
-      liveLink: "fashionfusion04.netlify.app/",
+      liveLink: "https://fashionfusion04.netlify.app/",
       githubLink: "https://github.com/Renuka19990/Cloud-Chintak-2345?tab=readme-ov-file",
     },
     {
